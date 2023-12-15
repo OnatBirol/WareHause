@@ -1,8 +1,4 @@
 # Kullanıcıdan adı alma
-ad = input("Adınızı girin: ")
-
-# Selamlama mesajını oluşturma
+ad = input("Onat Birol")
 selam_mesaji = f"Merhaba, {ad}! GitHub'ı kullanmak harika bir deneyimdir."
-
-# Selamlama mesajını ekrana yazdırma
 print(selam_mesaji)
